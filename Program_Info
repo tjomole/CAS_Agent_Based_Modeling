@@ -1,0 +1,24 @@
+Program Info:
+ 
+## WHAT IS IT?
+ 
+This program models the deposit and withdrawal interactions of depositors and their banks in a typical banking system. The model simulates the interactions of depositors and banks, where deposit and withdrawal decisions are principally influenced by a bank’s deposit interest rate, and a bank’s stability factor.
+ 
+This is a relatively simple Agent-Based Model, with 2 agents interacting based on a handful of procedures and rules. Deposit and withdrawal decisions are principally influenced by a bank’s deposit interest rate, and a bank’s stability factor.
+ 
+ 
+## HOW DOES IT WORKS?
+ 
+In each iteration/time step, depositors choose where and when to deposit or withdraw their money. Banks accept deposits, honor withdrawal requests, update the total deposits held at their bank. Banks set risk appetite via investment mix (gilt & bonds/loans/other).
+ 
+The system consist of 200 depositors (represented by ”person” turtles), and 5 banks (represented by “houses”)
+ 
+Depositor color (green) set based on money, from 0 to 1000. Deep-green = more money on this scale.
+ 
+Deposit-interest-rate is random-float from 1% to 5%; Banks’ Stability values are randomly set between 0 and 100 for each iteration/time step. Deposit-money amount: set randomly subject to the balance that a depositor has available at a bank.
+Deposit-money amount: [(deposit-interest-rate * 100) - ($(money – amount) * (1- risk-aversion))].
+ 
+ 
+## SET-UP & GO DETAILS
+ 
+After set up, to operate time steps use the "Go" in a single click and stop, rather than let it run indefinitely. Emergent behaviors of the agents (Depositors) and the Banks can be observed after every iteration/tick.
