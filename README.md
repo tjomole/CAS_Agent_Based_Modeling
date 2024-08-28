@@ -30,6 +30,10 @@ How It Works: Depositors choose where and when to deposit or withdraw their mone
 
 Key Features: Deposit-money and withdraw-money procedures – set as random amount of money to withdraw, subject to being no more than the depositor has available at a bank.
 
+# Results Review 
+
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/1457713e-47a2-4713-a064-6b8ce4dda16c">
+
 # Limitations
 Limitations include – limited literature review coupled with limited review and exploration of several aspects of the model, and an in-depth study of the domain to help, not least in testing, validation and verification of the model.
 
