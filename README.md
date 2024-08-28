@@ -18,8 +18,11 @@ Model Design and Results:
 Some emergent properties at the aggregate / banking sector level highlighted.
 The impact of bank stability factor, used by depositors to calibrate their risk-aversion coefficient, on the share of the wallet deposited at system-wide level, was observed.
 
+# Model Design and Results
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/a96bd083-d4a7-4cdb-a3de-c053e7fcbdc7">
 
-# Coding:
+
+# Code
 
 What Is It: This model, that I have named the Deposit Interest-Stability Model (DISM), simulates the interactions of depositors and banks, where deposit and withdrawal decisions are principally influenced by a bank’s deposit interest rate, and a bank’s stability factor.
 
