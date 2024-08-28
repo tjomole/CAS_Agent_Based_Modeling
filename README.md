@@ -64,7 +64,7 @@ Limitations include – limited literature review coupled with limited review an
 Next Steps model should be validated and verified to ensure robustness. The model is a relatively simple model looking only at deposit decision drivers. Other factors are likely to be at play, even at the fractal level.
 
 # Languages:
-Netlogo – 80% - NetLogo is a multi-agent programmable modeling environment, authored by Uri Wilensky, and developed by the Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL).
+Netlogo – 80% - [NetLogo](https://ccl.northwestern.edu/netlogo/) is a multi-agent programmable modeling environment, authored by Uri Wilensky, and developed by the Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL).
 
 Microsoft PowerPoint – 10%
 
