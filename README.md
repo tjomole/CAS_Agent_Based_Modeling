@@ -55,10 +55,8 @@ Limitations include – limited literature review coupled with limited review an
 Next Steps model should be validated and verified to ensure robustness. The model is a relatively simple model looking only at deposit decision drivers. Other factors are likely to be at play, even at the fractal level.
 
 ## Languages:
-Netlogo – 80% - [NetLogo](https://ccl.northwestern.edu/netlogo/) is a multi-agent programmable modeling environment, authored by Uri Wilensky, and developed by the Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL).
+Netlogo – 60% - [NetLogo](https://ccl.northwestern.edu/netlogo/) is a multi-agent programmable modeling environment, authored by Uri Wilensky, and developed by the Northwestern's Center for Connected Learning and Computer-Based Modeling (CCL).
 
-Microsoft PowerPoint – 10%
+Python – 40% - A Python model is also implemented, to describe the Agent-Based Model (ABM) that simulates the interactions between depositors and banks in a typical banking system. This model utilizes object-oriented programming to define the agents and their behaviors. For visualization purposes, the matplotlib library is employed to represent depositors with colors based on their monetary holdings.
 
-Microsoft Excel – 5%
-
-Tableau – 5%
+The observation is consistent with the NetLogo simulation: bank stability factor is a key driver of depositor’s deposit/withdraw behavior.
